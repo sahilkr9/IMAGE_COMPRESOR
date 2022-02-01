@@ -2,9 +2,6 @@
 	margin: 0;
 	padding: 0;
 }
-body {
-	align: center;
-}
 .wrapper {
 	width: 420px;
 	margin: 0 auto;
@@ -19,7 +16,6 @@ header {
 .logo {
 	width: 30%;
 	float: left;
-  align: center;
 	line-height: 60px;
 }
 h1{
@@ -27,7 +23,6 @@ h1{
   white-space: nowrap;
 	font-size: 32px;
   font-weight: 1000;
-  align: center;
 	font-family: poppins;
 	color: #009578;
 	letter-spacing: 5px;
